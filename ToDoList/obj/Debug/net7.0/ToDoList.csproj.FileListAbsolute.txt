@@ -135,3 +135,6 @@ C:\Users\jhonny\RiderProjects\ToDoList\ToDoList\obj\Debug\net7.0\ToDoList.pdb
 C:\Users\jhonny\RiderProjects\ToDoList\ToDoList\obj\Debug\net7.0\ToDoList.csproj.CopyComplete
 C:\Users\jhonny\RiderProjects\ToDoList\ToDoList\obj\Debug\net7.0\ToDoList.genruntimeconfig.cache
 C:\Users\jhonny\RiderProjects\ToDoList\ToDoList\obj\Debug\net7.0\ref\ToDoList.dll
+C:\Users\jhonny\RiderProjects\ToDoList\ToDoList\bin\Debug\net7.0\Avalonia.Headless.dll
+C:\Users\jhonny\RiderProjects\ToDoList\ToDoList\bin\Debug\net7.0\Avalonia.Headless.NUnit.dll
+C:\Users\jhonny\RiderProjects\ToDoList\ToDoList\bin\Debug\net7.0\nunit.framework.dll

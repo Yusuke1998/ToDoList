@@ -8,6 +8,7 @@
      x:DataType="vm:ToDoListViewModel">
     <DockPanel>
         <Button DockPanel.Dock="Bottom"
+            Name="AddItem"
             HorizontalAlignment="Stretch"
             HorizontalContentAlignment="Center"
             x:CompileBindings="False"

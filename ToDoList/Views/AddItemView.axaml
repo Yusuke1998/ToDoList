@@ -7,15 +7,18 @@
      x:Class="ToDoList.Views.AddItemView"
      x:DataType="vm:AddItemViewModel">
     <DockPanel>
-        <Button DockPanel.Dock="Bottom" 
+        <Button Name="CancelItem"
+            DockPanel.Dock="Bottom" 
             HorizontalAlignment="Stretch"
             HorizontalContentAlignment="Center"
             Command="{Binding CancelCommand}">Cancel</Button>
-        <Button DockPanel.Dock="Bottom" 
+        <Button Name="OkItem" 
+            DockPanel.Dock="Bottom" 
             HorizontalAlignment="Stretch"
             HorizontalContentAlignment="Center"
             Command="{Binding OkCommand}">OK</Button>
         <TextBox AcceptsReturn="True"
+             x:Name="Description"
              Text="{Binding Description}"
              Watermark="Enter your to do item"/>
     </DockPanel>
