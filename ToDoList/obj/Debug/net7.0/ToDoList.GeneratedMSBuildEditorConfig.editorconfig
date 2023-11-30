@@ -20,5 +20,11 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 [C:/Users/jhonny/RiderProjects/ToDoList/ToDoList/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/jhonny/RiderProjects/ToDoList/ToDoList/Views/AddItemView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/jhonny/RiderProjects/ToDoList/ToDoList/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/jhonny/RiderProjects/ToDoList/ToDoList/Views/ToDoListView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
